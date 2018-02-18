@@ -24,19 +24,19 @@
 
 ## Содержание
 
-**[Вопросы по HTML](#html-questions)**
+**[Вопросы по HTML](#Вопросы-по-html)**
 
-* [Что делает `DOCTYPE`?](#what-does-a-doctype-do)
-* [Как поддерживать страницу с контентом на нескольких языках?](#how-do-you-serve-a-page-with-content-in-multiple-languages)
-* [На что нужно обратить внимание при проектировании и разработке мультиязычных сайтов?](#what-kind-of-things-must-you-be-wary-of-when-designing-or-developing-for-multilingual-sites)
-* [Для чего отлично подойдут атрибуты `data-`?](#what-are-data--attributes-good-for)
-* [Представьте HTML5 как открытую веб-платформу. Из каких блоков состоит HTML5?](#consider-html5-as-an-open-web-platform-what-are-the-building-blocks-of-html5)
-* [Объясните разницу между `cookie`, `sessionStorage` и `localStorage`.](#describe-the-difference-between-a-cookie-sessionstorage-and-localstorage)
-* [Объясните разницу между `<script>`, `<script async>` и `<script defer>`.](#describe-the-difference-between-script-script-async-and-script-defer)
-* [Почему хорошей практикой считается располагать `<link>` для подключения CSS между `<head></head>`, а `<script>` для подключения JS ставить перед `</body>`? Знаете ли вы исключения?](#why-is-it-generally-a-good-idea-to-position-css-links-between-headhead-and-js-scripts-just-before-body-do-you-know-any-exceptions)
-* [Что такое прогрессивный рендеринг?](#what-is-progressive-rendering)
-* [Для чего нужно использовать атрибут `srcset` в теге картинки? Объясните по какому принципу браузер обрабатывает этот атрибут.](#why-you-would-use-a-srcset-attribute-in-an-image-tag-explain-the-process-the-browser-uses-when-evaluating-the-content-of-this-attribute)
-* [Приходилось ли вам работать с языками HTML-шаблонизации?](#have-you-used-different-html-templating-languages-before)
+* [Что делает `DOCTYPE`?](#Что-делает-doctype)
+* [Как поддерживать страницу с контентом на нескольких языках?](#Как-поддерживать-страницу-с-контентом-на-нескольких-языках)
+* [На что нужно обратить внимание при проектировании и разработке мультиязычных сайтов?](#На-что-нужно-обратить-внимание-при-проектировании-и-разработке-мультиязычных-сайтов)
+* [Для чего отлично подойдут `data`-атрибуты?](#Для-чего-отлично-подойдут-data-атрибуты)
+* [Представьте HTML5 как открытую веб-платформу. Из каких блоков состоит HTML5?](#Представьте-html5-как-открытую-веб-платформу-Из-каких-блоков-состоит-html5)
+* [Объясните разницу между `cookie`, `sessionStorage` и `localStorage`.](#Объясните-разницу-между-cookie-sessionstorage-и-localstorage)
+* [Объясните разницу между `<script>`, `<script async>` и `<script defer>`.](#Объясните-разницу-между-script-script-async-и-script-defer)
+* [Почему хорошей практикой считается располагать `<link>` для подключения CSS между `<head></head>`, а `<script>` для подключения JS ставить перед `</body>`? Знаете ли вы исключения?](#Почему-хорошей-практикой-считается-располагать-link-для-подключения-css-между-headhead-а-script-для-подключения-js-ставить-перед-body-Знаете-ли-вы-исключения)
+* [Что такое прогрессивный рендеринг?](#Что-такое-прогрессивный-рендеринг)
+* [Для чего нужно использовать атрибут `srcset` в теге картинки? Объясните по какому принципу браузер обрабатывает этот атрибут.](#Для-чего-нужно-использовать-атрибут-srcset-в-теге-картинки-Объясните-по-какому-принципу-браузер-обрабатывает-этот-атрибут)
+* [Приходилось ли вам работать с языками HTML-шаблонизации?](#Приходилось-ли-вам-работать-с-языками-html-шаблонизации)
 
 ---
 
