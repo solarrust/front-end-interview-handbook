@@ -28,7 +28,7 @@
 * https://www.w3.org/QA/Tips/Doctype
 * https://quirks.spec.whatwg.org/#history
 
-[[↑] Наверх](#Вопросы-по-HTML
+[[↑] Наверх](#Вопросы-по-HTML)
 
 ### Как поддерживать страницу с контентом на нескольких языках?
 
@@ -42,7 +42,7 @@
 
 * https://www.w3.org/International/getting-started/language
 
-[[↑] Наверх](#Вопросы-по-HTML
+[[↑] Наверх](#Вопросы-по-HTML)
 
 ### На что нужно обратить внимание при проектировании и разработке мультиязычных сайтов?
 
@@ -59,7 +59,7 @@
 
 * https://www.quora.com/What-kind-of-things-one-should-be-wary-of-when-designing-or-developing-for-multilingual-sites
 
-[[↑] Наверх](#Вопросы-по-HTML
+[[↑] Наверх](#Вопросы-по-HTML)
 
 ### Для чего отлично подойдут `data`-атрибуты?
 
@@ -72,7 +72,7 @@
 * http://html5doctor.com/html5-custom-data-attributes/
 * https://www.w3.org/TR/html5/dom.html#embedding-custom-non-visible-data-with-the-data-*-attributes
 
-[[↑] Наверх](#Вопросы-по-HTML
+[[↑] Наверх](#Вопросы-по-HTML)
 
 ### Представьте HTML5 как открытую веб-платформу. Из каких блоков состоит HTML5?
 
@@ -89,7 +89,7 @@
 
 * https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 
-[[↑] Наверх](#Вопросы-по-HTML
+[[↑] Наверх](#Вопросы-по-HTML)
 
 ### Объясните разницу между `cookie`, `sessionStorage` и `localStorage`.
 
@@ -110,7 +110,7 @@
 * https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
 * http://tutorial.techaltum.com/local-and-session-storage.html
 
-[[↑] Наверх](#Вопросы-по-HTML
+[[↑] Наверх](#Вопросы-по-HTML)
 
 ### Объясните разницу между `<script>`, `<script async>` и `<script defer>`.
 
@@ -126,7 +126,7 @@
 * https://stackoverflow.com/questions/10808109/script-tag-async-defer
 * https://bitsofco.de/async-vs-defer/
 
-[[↑] Наверх](#Вопросы-по-HTML
+[[↑] Наверх](#Вопросы-по-HTML)
 
 ### Почему хорошей практикой считается располагать `<link>` для подключения CSS между `<head></head>`, а `<script>` для подключения JS ставить перед `</body>`? Знаете ли вы исключения?
 
@@ -144,7 +144,7 @@
 
 * https://developer.yahoo.com/performance/rules.html#css_top
 
-[[↑] Наверх](#Вопросы-по-HTML
+[[↑] Наверх](#Вопросы-по-HTML)
 
 ### Что такое прогрессивный рендеринг?
 
@@ -158,7 +158,7 @@
 * **Приоритизация видимого контента (или загрузка первого экрана).** Включает в себя только минимум CSS, контента, скиптов, необходимых для отрисовки той части страницы, которую пользователь увидит первой. Вы можете использовать отложенные скрипты или слушать события `DOMContentLoaded` или `load`, чтобы загрузить остальные ресурсы и контент.
 * **Асинхронные фрагменты HTML.** Отсылка в браузер частей HTML-страницы, созданной на бэкенде. Более подробно про эту технологию можно почитать [в этой статье](http://www.ebaytechblog.com/2014/12/08/async-fragments-rediscovering-progressive-html-rendering-with-marko/).
 
-[[↑] Наверх](#Вопросы-по-HTML
+[[↑] Наверх](#Вопросы-по-HTML)
 
 ### Для чего нужно использовать атрибут `srcset` в теге картинки? Объясните по какому принципу браузер обрабатывает этот атрибут.
 
@@ -169,13 +169,13 @@
 * https://stackoverflow.com/questions/33651166/what-is-progressive-rendering
 * http://www.ebaytechblog.com/2014/12/08/async-fragments-rediscovering-progressive-html-rendering-with-marko/
 
-[[↑] Наверх](#Вопросы-по-HTML
+[[↑] Наверх](#Вопросы-по-HTML)
 
 ### Приходилось ли вам работать с языками HTML-шаблонизации?
 
 Да, Pug (ранее известный как Jade), ERB, Slim, Handlebars, Jinja, Liquid и это только некоторые из них. По моему мнению, все они более или менее одинаковые и предоставляют одинаковые возможности экранирования контента и полезных фильтров для работы с отображаемыми данными. Большинство движков позволяют вводить собственные фильтры, если вам требуется дополнительная обработка контента перед его отображением.
 
-[[↑] Наверх](#Вопросы-по-HTML
+[[↑] Наверх](#Вопросы-по-HTML)
 
 ### Другие ответы
 
