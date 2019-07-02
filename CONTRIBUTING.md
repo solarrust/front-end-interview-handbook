@@ -1,10 +1,21 @@
-Contributing
-When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+## Contributing
 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+When contributing non-trivial changes to this repository, please first discuss the change you wish to make by creating a pull request in this repository.
 
-Pull Request Process
-Ensure any install or build dependencies are removed before the end of the layer when doing a build.
-Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
-Increase the version numbers in any examples files and the README.md to the new version that this Pull Request would represent. The versioning scheme we use is SemVer.
-You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.
+### Submitting New Questions
+
+The [original questions repository](https://github.com/h5bp/Front-end-Developer-Interview-Questions) has been curated by a team of industry professionals. We use it as ground truth and keep our answers in sync with their questions/answers as much as possible. If you are keen to add a question/answer, submit an issue/pull request to the [original questions repository](https://github.com/h5bp/Front-end-Developer-Interview-Questions). Once your question is merged, make a pull request with your answers to this repository.
+
+### Answering Questions
+
+You are welcome to make improvements to existing answers and answer unanswered questions. Whenever possible, add a list of references and supplementary material. This would be helpful for readers who would like to go further in-depth into the answer.
+
+Follow the existing format of markdown and code. JavaScript code added should adopt [Standard style](https://standardjs.com/).
+
+### Translations
+
+Feel free to add translations for the questions and answers only. You can retrieve a translated copy of the questions from [the original repository](https://github.com/h5bp/Front-end-Developer-Interview-Questions) and start from there. Simply create an issue expressing interest in being a translator and you can fork the repository and start translating. Translators have the responsibility of keeping the translated content up to date with the master copy. Translated work has to go through the Pull Request and review process before it can be merged into the repository. This is more for organizational purposes as different translators tend to have individual collaboration approach (some prefer merging, some prefer rebasing). Going through a Pull Request process will make the commit history more organized and clean.
+
+### Code of Conduct
+
+Please note our Code of Conduct and follow it in all your interactions with the project.
